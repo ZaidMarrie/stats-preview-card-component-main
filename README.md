@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My Solution](https://your-solution-url.com)
+- Solution URL: [My Solution](https://www.frontendmentor.io/solutions/stats-preview-card-with-flexbox-lp1wq64-R)
 - Live Site URL: [Live Site](https://zaidmarrie.github.io/stats-preview-card-component-main/)
 
 ## My process
@@ -75,14 +75,12 @@ I will continue exploring and experimenting with images to get them to behave in
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Resource 1](https://www.patreon.com/posts/get-rid-of-that-41707617) - This taught me about the annoying space under your images and how to fix it.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@ZaidMarrie](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - [@Zaid51807472](https://twitter.com/Zaid51807472)
 
 ## Acknowledgments
 
