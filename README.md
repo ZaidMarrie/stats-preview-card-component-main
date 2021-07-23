@@ -28,12 +28,11 @@ Users should be able to:
 
 #### Desktop view
 
-
+![Desktop View](https://user-images.githubusercontent.com/84665360/126758376-f198d6db-46db-4865-ad55-60862dd3be59.png)
 
 #### Mobile view
 
-
-
+![Mobile View](https://user-images.githubusercontent.com/84665360/126758400-d1e9bce0-38ad-4621-8e0c-772b69af5ce3.png)
 
 ### Links
 
